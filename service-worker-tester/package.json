@@ -1,6 +1,5 @@
 {
   "name": "service-worker-tester",
-  "homepage": "https://winterrollx.github.io/ServiceWorkerTester/index.html",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
